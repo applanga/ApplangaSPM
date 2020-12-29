@@ -12,6 +12,10 @@
 		<data>
 		wxjEz6yM07T5wnB7O+ERDW9X+kU=
 		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		1FULbuKqHGb+WMJt98eTbiAVFKY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -24,6 +28,17 @@
 			<key>hash2</key>
 			<data>
 			ZLF2P5KK5W6nGpqJBDQ11a+TSdpTVEfZWqNXfBU3wC4=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1FULbuKqHGb+WMJt98eTbiAVFKY=
+			</data>
+			<key>hash2</key>
+			<data>
+			dDcIU+0a2dbCApkEkO7RXEsBNzYe2jTZERJrOmzuN10=
 			</data>
 		</dict>
 	</dict>
