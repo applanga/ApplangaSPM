@@ -8,6 +8,10 @@
 		<data>
 		0TILL9w8vmSi6Bm+Mr6Ak4zX9MM=
 		</data>
+		<key>Headers/ApplangaWatchOS.h</key>
+		<data>
+		nHTpaISQTFhkS19YKQiWPWpKGA8=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		wxjEz6yM07T5wnB7O+ERDW9X+kU=
@@ -28,6 +32,17 @@
 			<key>hash2</key>
 			<data>
 			ZLF2P5KK5W6nGpqJBDQ11a+TSdpTVEfZWqNXfBU3wC4=
+			</data>
+		</dict>
+		<key>Headers/ApplangaWatchOS.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nHTpaISQTFhkS19YKQiWPWpKGA8=
+			</data>
+			<key>hash2</key>
+			<data>
+			t+F8FhL1NgpoEW7/ItvUmYBVbeBkRpJqn/nSV+Ri2vE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
